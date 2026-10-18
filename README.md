@@ -1,10 +1,6 @@
 <div align="center">
-  <!-- Responsive Header Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,F8BBD0,EF93C4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16" alt="Header Banner" width="100%">
-  </picture>
+  <!-- Header Banner -->
+  <img src="./header.jpg" alt="Header Banner" width="100%" style="border-radius: 12px;" />
 
   <!-- Large Centered Title -->
   <h1>Hey there, I'm Aditya Kumar Gupta</h1>
