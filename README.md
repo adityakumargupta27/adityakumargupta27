@@ -16,12 +16,12 @@
 
   <br><br>
 
-  <!-- Pink GitHub Badges -->
+  <!-- Gold & Zinc GitHub Badges -->
   <a href="https://github.com/adityakumargupta27?tab=followers">
-    <img src="https://img.shields.io/github/followers/adityakumargupta27?label=Followers&logo=github&style=for-the-badge&color=C5A059&labelColor=1a1b27" alt="Followers Badge" />
+    <img src="https://img.shields.io/badge/Followers-24-C5A059?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Followers Badge" />
   </a>
   <a href="https://github.com/adityakumargupta27?tab=repositories">
-    <img src="https://img.shields.io/github/stars/adityakumargupta27?label=Total+Stars&logo=github&style=for-the-badge&color=D4AF37&labelColor=1a1b27" alt="Stars Badge" />
+    <img src="https://img.shields.io/badge/Total_Stars-18-D4AF37?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Stars Badge" />
   </a>
   <img src="https://api.visitorbadge.io/api/visitors?path=adityakumargupta27&label=Profile%20Views&labelColor=%231a1b27&countColor=%23C5A059&style=for-the-badge" alt="Profile Views" />
 
