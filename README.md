@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="./header.jpg" alt="Header Banner" width="100%" style="border-radius: 12px;" />
+  <img src="./header-strip.png" alt="Header Banner" width="100%" style="border-radius: 12px;" />
 
   <!-- Large Centered Title -->
   <h1>Hey there, I'm Aditya Kumar Gupta</h1>
