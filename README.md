@@ -63,10 +63,29 @@
 
 <!-- Centered Tech Stack -->
 <div align="center">
-  <h3>Tech Stack & Tools</h3>
+  <h3>Tech Stack & Systems</h3>
   <br>
+
+  <img src="https://img.shields.io/badge/CORE-Languages_%26_Frameworks-D4AF37?style=flat-square&labelColor=27272A" alt="Core Languages & Frameworks" />
+  <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nextjs,nodejs,fastapi,tailwind,docker,kubernetes,aws,gcp,git,github,linux,postgres,mongodb,redis,firebase,vite,postman,graphql,prisma&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nextjs,nodejs,fastapi" alt="Languages and Frameworks" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/INFRASTRUCTURE-Cloud_%26_DevOps-C5A059?style=flat-square&labelColor=27272A" alt="Cloud and DevOps" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,github,tailwind" alt="Cloud and DevOps" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/DATA_%26_APIs-Databases_%26_Tooling-D4AF37?style=flat-square&labelColor=27272A" alt="Databases and Tooling" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,vite,postman,graphql,prisma" alt="Databases and Tools" />
   </a>
 </div>
 
