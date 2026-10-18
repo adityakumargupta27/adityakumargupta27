@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Responsive Header Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=FF69B4,F8BBD0,EF93C4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16" alt="Header Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,F8BBD0,EF93C4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16" alt="Header Banner" width="100%">
   </picture>
 
   <!-- Large Centered Title -->
@@ -11,7 +11,7 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=550&lines=Software+Engineer;Building+AI+Systems+%26+RAG+Pipelines;Scalable+Backends+%26+Distributed+Systems;Codeforces+Expert+(1661)+%7C+CodeChef+3+Star" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+AI+Systems+%26+RAG+Pipelines;Scalable+Backends+%26+Distributed+Systems;Codeforces+Expert+(1661)+%7C+CodeChef+3+Star" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -23,7 +23,7 @@
   <a href="https://github.com/adityakumargupta27?tab=repositories">
     <img src="https://img.shields.io/github/stars/adityakumargupta27?label=Total+Stars&logo=github&style=for-the-badge&color=FF69B4&labelColor=1a1b27" alt="Stars Badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=adityakumargupta27&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=adityakumargupta27&label=Profile%20Views&labelColor=%231a1b27&countColor=%23F8BBD0&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -134,5 +134,5 @@
 
 <!-- Pink Capsule Render Waving Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EF93C4,F8BBD0,FF69B4&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
