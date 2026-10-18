@@ -23,7 +23,7 @@
   <a href="https://github.com/adityakumargupta27?tab=repositories">
     <img src="https://img.shields.io/badge/Total_Stars-18-D4AF37?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Stars Badge" />
   </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=adityakumargupta27&label=Profile%20Views&labelColor=%231a1b27&countColor=%23C5A059&style=for-the-badge" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/adityakumargupta27.svg?style=for-the-badge&color=C5A059&labelColor=1a1b27&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -66,7 +66,7 @@
   <h3>Tech Stack & Tools</h3>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nextjs,nodejs,fastapi,tailwind,docker,git,github,postgres,mongodb,firebase&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nextjs,nodejs,fastapi,tailwind,docker,kubernetes,aws,gcp,git,github,linux,postgres,mongodb,redis,firebase,vite,postman,graphql,prisma&perline=8" alt="Tech Stack" />
   </a>
 </div>
 
