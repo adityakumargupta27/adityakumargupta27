@@ -76,14 +76,14 @@
 
 <br>
 
-<!-- GitHub Streak & Activity Graph (Pink Theme: #EF93C4, #F8BBD0, #FF69B4) -->
+<!-- GitHub Streak & Metrics (Pink Theme: #EF93C4, #F8BBD0, #FF69B4) -->
 <div align="center">
-  <h3>GitHub Telemetry & Activity</h3>
+  <h3>GitHub Telemetry & Analytics</h3>
   <br>
-  <img src="https://streak-stats.demolab.com?user=adityakumargupta27&theme=custom&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=8b949e" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api?username=adityakumargupta27&show_icons=true&theme=radical&title_color=EF93C4&text_color=ffffff&icon_color=FF69B4&bg_color=0D1117&border_color=EF93C4" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumargupta27&layout=compact&theme=radical&title_color=EF93C4&text_color=ffffff&bg_color=0D1117&border_color=EF93C4" alt="Top Languages" width="49%" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumargupta27&theme=custom&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=false&border_color=EF93C4" alt="Activity Graph" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=adityakumargupta27&theme=custom&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=8b949e" alt="GitHub Streak" width="98%" />
 </div>
 
 <br>
