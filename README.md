@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle" style="border: none;">
-      <img src="https://avatars.githubusercontent.com/u/221570674?v=4" alt="Aditya Kumar Gupta" width="220" style="border-radius: 50%; border: 3px solid #EF93C4; box-shadow: 0 4px 20px rgba(239, 147, 196, 0.4);" />
+      <img src="https://raw.githubusercontent.com/adityakumargupta27/adityakumargupta27/main/profile.jpg" alt="Aditya Kumar Gupta" width="220" style="border-radius: 20px; border: 3px solid #EF93C4; box-shadow: 0 4px 25px rgba(239, 147, 196, 0.45); object-fit: cover;" />
     </td>
   </tr>
 </table>
