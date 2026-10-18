@@ -11,19 +11,19 @@
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+AI+Systems+%26+RAG+Pipelines;Scalable+Backends+%26+Distributed+Systems;Codeforces+Expert+(1661)+%7C+CodeChef+3+Star" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=620&lines=Software+Engineer;Building+AI+Systems+%26+RAG+Pipelines;Scalable+Backends+%26+Distributed+Systems;Codeforces+Expert+(1661)+%7C+CodeChef+3+Star" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <!-- Pink GitHub Badges -->
   <a href="https://github.com/adityakumargupta27?tab=followers">
-    <img src="https://img.shields.io/github/followers/adityakumargupta27?label=Followers&logo=github&style=for-the-badge&color=EF93C4&labelColor=1a1b27" alt="Followers Badge" />
+    <img src="https://img.shields.io/github/followers/adityakumargupta27?label=Followers&logo=github&style=for-the-badge&color=C5A059&labelColor=1a1b27" alt="Followers Badge" />
   </a>
   <a href="https://github.com/adityakumargupta27?tab=repositories">
-    <img src="https://img.shields.io/github/stars/adityakumargupta27?label=Total+Stars&logo=github&style=for-the-badge&color=FF69B4&labelColor=1a1b27" alt="Stars Badge" />
+    <img src="https://img.shields.io/github/stars/adityakumargupta27?label=Total+Stars&logo=github&style=for-the-badge&color=D4AF37&labelColor=1a1b27" alt="Stars Badge" />
   </a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=adityakumargupta27&label=Profile%20Views&labelColor=%231a1b27&countColor=%23F8BBD0&style=for-the-badge" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=adityakumargupta27&label=Profile%20Views&labelColor=%231a1b27&countColor=%23C5A059&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -76,14 +76,14 @@
 
 <br>
 
-<!-- GitHub Streak & Metrics (Pink Theme: #EF93C4, #F8BBD0, #FF69B4) -->
+<!-- GitHub Streak & Metrics (Champagne Gold & Dark Zinc) -->
 <div align="center">
   <h3>GitHub Telemetry & Analytics</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakumargupta27&show_icons=true&theme=radical&title_color=EF93C4&text_color=ffffff&icon_color=FF69B4&bg_color=0D1117&border_color=EF93C4" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumargupta27&layout=compact&theme=radical&title_color=EF93C4&text_color=ffffff&bg_color=0D1117&border_color=EF93C4" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumargupta27&show_icons=true&theme=radical&title_color=D4AF37&text_color=ffffff&icon_color=C5A059&bg_color=0D1117&border_color=27272A&ring_color=D4AF37" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumargupta27&layout=compact&theme=radical&title_color=D4AF37&text_color=ffffff&bg_color=0D1117&border_color=27272A" alt="Top Languages" width="49%" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=adityakumargupta27&theme=custom&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=8b949e" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=adityakumargupta27&theme=custom&background=0D1117&border=27272A&stroke=27272A&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=C5A059&sideLabels=C5A059&dates=8b949e" alt="GitHub Streak" width="98%" />
 </div>
 
 <br>
