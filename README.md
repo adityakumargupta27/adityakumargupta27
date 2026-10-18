@@ -137,10 +137,10 @@
   <a href="mailto:ag6787670@gmail.com">
     <img src="https://img.shields.io/badge/Email-ag6787670%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" />
   </a>
-  <a href="https://codeforces.com/profile/adityakumargupta27" target="_blank">
+  <a href="https://codeforces.com/profile/notgodfather" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-Expert%20(1661)-EF93C4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" alt="Codeforces" />
   </a>
-  <a href="https://www.codechef.com/users/adityakumargupta27" target="_blank">
+  <a href="https://www.codechef.com/users/notgodfather15" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1757)-FF69B4?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef" />
   </a>
 </div>
