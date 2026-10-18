@@ -1,0 +1,138 @@
+<div align="center">
+  <!-- Responsive Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=FF69B4,F8BBD0,EF93C4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=180&section=header&text=Aditya%20Kumar%20Gupta&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Building%20AI%20Systems%2C%20RAG%20%26%20Scalable%20Backends&descAlign=50&descAlignY=62&descSize=16" alt="Header Banner" width="100%">
+  </picture>
+
+  <!-- Large Centered Title -->
+  <h1>Hey there, I'm Aditya Kumar Gupta</h1>
+
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=550&lines=Software+Engineer;Building+AI+Systems+%26+RAG+Pipelines;Scalable+Backends+%26+Distributed+Systems;Codeforces+Expert+(1661)+%7C+CodeChef+3+Star" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Pink GitHub Badges -->
+  <a href="https://github.com/adityakumargupta27?tab=followers">
+    <img src="https://img.shields.io/github/followers/adityakumargupta27?label=Followers&logo=github&style=for-the-badge&color=EF93C4&labelColor=1a1b27" alt="Followers Badge" />
+  </a>
+  <a href="https://github.com/adityakumargupta27?tab=repositories">
+    <img src="https://img.shields.io/github/stars/adityakumargupta27?label=Total+Stars&logo=github&style=for-the-badge&color=FF69B4&labelColor=1a1b27" alt="Stars Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adityakumargupta27&style=for-the-badge&color=F8BBD0&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- About Me Section -->
+<table align="center" width="100%" border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="65%" valign="middle" style="border: none; padding-right: 25px;">
+      <h3>About Me</h3>
+      <p>
+        I'm a Software Engineer focused on building robust AI systems, retrieval-augmented generation (RAG) pipelines, and high-throughput scalable backends. When I'm not architecting full-stack systems, I solve algorithmic challenges.
+      </p>
+      <ul>
+        <li><strong>Current Focus:</strong> Developing document intelligence engines, vector search pipelines, and agentic workflows.</li>
+        <li><strong>Competitive Programming:</strong> <strong>Codeforces Expert (1661)</strong> and <strong>CodeChef 3 Star (1757)</strong>.</li>
+        <li><strong>Flagship Projects:</strong> Architected <em>EPCMind</em> (industrial RAG compliance), <em>Wingman</em> (career intelligence pipeline), and <em>AARAMBHA</em> (forensic fund audit engine).</li>
+        <li><strong>Portfolio:</strong> <a href="https://adityakumargupta.vercel.app">adityakumargupta.vercel.app</a></li>
+        <li><strong>Ask Me About:</strong> C++, Python, TypeScript, system design, and algorithmic problem-solving.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/221570674?v=4" alt="Aditya Kumar Gupta" width="220" style="border-radius: 50%; border: 3px solid #EF93C4; box-shadow: 0 4px 20px rgba(239, 147, 196, 0.4);" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<!-- Centered Tech Stack -->
+<div align="center">
+  <h3>Tech Stack & Tools</h3>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nextjs,nodejs,fastapi,tailwind,docker,git,github,postgres,mongodb,firebase&perline=8" alt="Tech Stack" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- GitHub Streak & Activity Graph (Pink Theme: #EF93C4, #F8BBD0, #FF69B4) -->
+<div align="center">
+  <h3>GitHub Telemetry & Activity</h3>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=adityakumargupta27&theme=custom&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=8b949e" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumargupta27&show_icons=true&theme=radical&title_color=EF93C4&text_color=ffffff&icon_color=FF69B4&bg_color=0D1117&border_color=EF93C4" alt="GitHub Stats" width="49%" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumargupta27&theme=custom&bg_color=0D1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=false&border_color=EF93C4" alt="Activity Graph" width="98%" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <h3>Contribution Graph Animation</h3>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityakumargupta27/adityakumargupta27/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityakumargupta27/adityakumargupta27/output/github-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/adityakumargupta27/adityakumargupta27/output/github-snake.svg" width="98%">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+  <h3>Connect With Me</h3>
+  <br>
+  <a href="https://linkedin.com/in/aditya-kumar-gupta-bb9986348" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar%20Gupta-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
+  </a>
+  <a href="https://adityakumargupta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adityakumargupta.vercel.app-FF69B4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
+  </a>
+  <a href="mailto:ag6787670@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ag6787670%40gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/adityakumargupta27" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Expert%20(1661)-EF93C4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1b27" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/adityakumargupta27" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20(1757)-FF69B4?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" alt="CodeChef" />
+  </a>
+</div>
+
+<br><br>
+
+<!-- Pink Capsule Render Waving Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&customColorList=EF93C4,F8BBD0,FF69B4&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>
